@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋, my name is Dmitry
+#### I wanna be junior software developer
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilyneke&theme=solarized_dark)
+Skills: Python / SQL / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **Ilyneke/Ilyneke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
