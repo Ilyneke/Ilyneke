@@ -3,7 +3,10 @@
 
 Skills: Python / Django / SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+- 📫 How to reach me: https://t.me/nu_i_dela
+- 🌱 I’m currently learning: Django, SQL
+- ⚡ My leetcode: https://leetcode.com/esus1707/
 
 <!--
 **Ilyneke/Ilyneke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
