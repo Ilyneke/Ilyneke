@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Dmitry
 #### I wanna be junior software developer
 
-Skills: Python / SQL
+Skills: Python / Django / SQL
 
 - 🔭 I’m currently working on this page. 
 
