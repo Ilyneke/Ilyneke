@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Dmitry
 #### I wanna be junior software developer
 
-Skills: Python / Django / SQL
+Skills: Python / SQL
 
 - 🔭 I’m currently working on this page.
 - 📫 How to reach me: https://t.me/nu_i_dela
-- 🌱 I’m currently learning: Django, SQL
+- 🌱 I’m currently learning: SQL, FastAPI
 - ⚡ My leetcode: https://leetcode.com/esus1707/
 
 <!--
